@@ -1,0 +1,27 @@
+{
+    "name": "globalis/wp-datanova-cities",
+    "type":"wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "description":"Datanova laposte_hexasmal wrapper for WordPress",
+    "homepage": "https://github.com/globalis-ms/wp-datanova-cities",
+    "authors": [
+        {
+            "name": "Pierre Dargham",
+            "homepage": "https://github.com/pierre-dargham/"
+        },
+        {
+            "name": "GLOBALIS media systems",
+            "homepage": "https://www.globalis-ms.com/"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/globalis-ms/wp-datanova-cities/issues"
+    },
+    "require": {
+        "php":">=5.5.0",
+        "composer/installers": "^1.5.0"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^2.5.1"
+    }
+}
