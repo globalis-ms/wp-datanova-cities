@@ -1,4 +1,8 @@
-# wp-datanova-cities
+# [wp-datanova-cities](https://github.com/globalis-ms/wp-datanova-cities)
+
+[![Build Status](https://travis-ci.org/globalis-ms/wp-datanova-cities.svg?branch=master)](https://travis-ci.org/globalis-ms/wp-datanova-cities)
+[![Latest Stable Version](https://poser.pugx.org/globalis/wp-datanova-cities/v/stable)](https://packagist.org/packages/globalis/wp-datanova-cities)
+[![License](https://poser.pugx.org/globalis/wp-datanova-cities/license)](https://github.com/globalis-ms/wp-datanova-cities/blob/master/LICENSE.md)
 
 Datanova laposte_hexasmal wrapper for WordPress
 
