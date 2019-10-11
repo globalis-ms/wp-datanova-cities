@@ -114,7 +114,7 @@ class Database
             return false;
         }
 
-        $this->filename = tempnam('/tmp', 'datanova_laposte_hexasmal_csv_') . '.csv';
+        $this->filename = tempnam('/tmp', 'datanova_laposte_hexasmal_csv_' . date('YmdHis') . '_');
         file_put_contents($this->filename, $http_response['body']);
         return $this->filename;
     }
